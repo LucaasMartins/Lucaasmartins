@@ -15,3 +15,4 @@
 
 #### Entrando na área de programação para realização pessoal e ascensão de carreira. 
 #### Facilidade para trabalhar em grupo e para me comunicar.
+##### Contato: lucas.s.martins17@gmail.com / (11) 97524-6117
