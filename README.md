@@ -3,8 +3,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luketas01/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-martins-71000a258/)
 
-![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=LucaasMartins&show_icons=true&theme=merko)
-
 ## Tecnologias que eu uso no meu dia
 <div style="display: inline_block"><br/>
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
